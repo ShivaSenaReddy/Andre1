@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ShivaSenaReddy/Andre1/static/css/main.30612b9e.css",
+    "main.js": "/ShivaSenaReddy/Andre1/static/js/main.ca2cceff.js",
+    "static/js/787.32032a02.chunk.js": "/ShivaSenaReddy/Andre1/static/js/787.32032a02.chunk.js",
+    "index.html": "/ShivaSenaReddy/Andre1/index.html",
+    "main.30612b9e.css.map": "/ShivaSenaReddy/Andre1/static/css/main.30612b9e.css.map",
+    "main.ca2cceff.js.map": "/ShivaSenaReddy/Andre1/static/js/main.ca2cceff.js.map",
+    "787.32032a02.chunk.js.map": "/ShivaSenaReddy/Andre1/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30612b9e.css",
+    "static/js/main.ca2cceff.js"
+  ]
+}
